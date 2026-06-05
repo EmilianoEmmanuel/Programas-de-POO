@@ -76,7 +76,7 @@ public class GestionObra {
     static String[][] presServicios    = new String[10][5];
 
     // ═══════════════════════════════════════════
-    //   UTILIDADES GENÉRICAS  (del código original)
+    //  FUNCIONES AUXILIARES DE ENTRADA, VALIDACIÓN Y FORMATEO
     // ═══════════════════════════════════════════
 
     public static String RellenarEspacios(String dato, int tamano) {
